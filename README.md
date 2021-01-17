@@ -1,7 +1,7 @@
-# _My third webpage
+# _Animal-shelter
 #### _January 10th 2021_
 Creating a test website for Epicodus who has a client that wants a website created for their new resort.
-#### By _**{Faisal Rana}**_
+#### By _**{Faisal Rana and Laura}**_
 ## Description
 
 _Test Website_
